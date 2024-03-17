@@ -1,6 +1,6 @@
 Hello!
-To be able to use this server please connect it to a LOCAL db that exists on your computer.
-changes needs to be in file:
+To be able to use this server please connect it to a LOCAL db that exists on your computer.<br/>
+changes needs to be in file:<br/>
 **src/app.module.ts**
 
 lines 19-21:
@@ -14,10 +14,10 @@ lines 19-21:
 ...
 <br/>
 
-Change username, database and password to an existing and correct credntials.
-
+Change username, database and password to an existing and correct credntials.<br/>
+<br/><br/>
 Thanks :)
-
+<br/><br/><br/><br/><br/>
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
