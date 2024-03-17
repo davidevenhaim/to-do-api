@@ -7,9 +7,9 @@ lines 19-21:
 <br/>
 ...
 <br/>
-      username: 'atm-dev',
-      password: '1234',
-      database: 'atm-dev',
+      username: 'atm-dev',<br/>
+      password: '1234',<br/>
+      database: 'atm-dev',<br/>
 <br/>
 ...
 <br/>
