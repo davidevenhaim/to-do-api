@@ -1,3 +1,19 @@
+Hello!
+To be able to use this server please connect it to a LOCAL db that exists on your computer.
+changes needs to be in file:
+**src/app.module.ts**
+
+lines 19-21:
+...
+      username: 'atm-dev',
+      password: '1234',
+      database: 'atm-dev',
+...
+
+Change username, database and password to an existing and correct credntials.
+
+Thanks :)
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
