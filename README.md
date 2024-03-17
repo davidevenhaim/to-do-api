@@ -4,11 +4,15 @@ changes needs to be in file:
 **src/app.module.ts**
 
 lines 19-21:
+<br/>
 ...
+<br/>
       username: 'atm-dev',
       password: '1234',
       database: 'atm-dev',
+<br/>
 ...
+<br/>
 
 Change username, database and password to an existing and correct credntials.
 
